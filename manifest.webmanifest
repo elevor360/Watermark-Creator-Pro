@@ -1,0 +1,17 @@
+{
+  "name": "Elevor360D Watermark Creator Pro",
+  "short_name": "Watermark Pro",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1423",
+  "theme_color": "#102238",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
