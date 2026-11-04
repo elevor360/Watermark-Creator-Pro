@@ -1,0 +1,10 @@
+{
+  "adverts": [
+    {
+      "title": "Explore the Elevor360D App Collection",
+      "image": "advertising/images/elevor360d-promo-banner.png",
+      "url": "https://elevor360d.co.uk/",
+      "enabled": true
+    }
+  ]
+}
